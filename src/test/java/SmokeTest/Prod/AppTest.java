@@ -1,4 +1,4 @@
-package SmokeTest.Prod;
+package test.java.SmokeTest.Prod;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

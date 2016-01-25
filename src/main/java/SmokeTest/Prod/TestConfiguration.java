@@ -1,4 +1,4 @@
-package SmokeTest.Prod;
+package main.java.SmokeTest.Prod;
 
 
 
