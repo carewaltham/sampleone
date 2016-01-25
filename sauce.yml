@@ -1,3 +1,5 @@
 ---
+  jdk: openjdk8
+  build-automation: maven
   language: "java"
   maven-version: "3.3"
